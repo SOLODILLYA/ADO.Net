@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|c:\\users\\solod\\it\\step\\ado.net\\contactsmanager\\contactsmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\services\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\services\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\repos\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\repos\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\repos\\categoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\repos\\categoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\interfaces\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\interfaces\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\interfaces\\icategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\interfaces\\icategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\repos\\contactsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\repos\\contactsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\interfaces\\icontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\interfaces\\icontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\registryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\registryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\registryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\registryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\contactsmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3A8F45B-C577-4CED-9D5C-141B685B49B8}|ContactsManager\\ContactsManager.csproj|solutionrelative:contactsmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2875,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Form1.cs [Design]",
+              "RelativeToolTip": "ContactsManager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:51:46.264Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbConnector.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Services\\DbConnector.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Services\\DbConnector.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Services\\DbConnector.cs",
+              "RelativeToolTip": "ContactsManager\\Services\\DbConnector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:51:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Repos\\ContactsRepo.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Repos\\ContactsRepo.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Repos\\ContactsRepo.cs",
+              "RelativeToolTip": "ContactsManager\\Repos\\ContactsRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:16:06.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Models\\User.cs",
+              "RelativeToolTip": "ContactsManager\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:11:20.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Models\\Category.cs",
+              "RelativeToolTip": "ContactsManager\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:10:48.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IContacts.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Interfaces\\IContacts.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Interfaces\\IContacts.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Interfaces\\IContacts.cs",
+              "RelativeToolTip": "ContactsManager\\Interfaces\\IContacts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:10:34.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategories.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Interfaces\\ICategories.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Interfaces\\ICategories.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Interfaces\\ICategories.cs",
+              "RelativeToolTip": "ContactsManager\\Interfaces\\ICategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:54:32.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\LoginForm.cs [Design]",
+              "RelativeToolTip": "ContactsManager\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:10:42.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistryForm.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\RegistryForm.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\RegistryForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\RegistryForm.cs",
+              "RelativeToolTip": "ContactsManager\\RegistryForm.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:10:14.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsers.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Interfaces\\IUsers.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Interfaces\\IUsers.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Interfaces\\IUsers.cs",
+              "RelativeToolTip": "ContactsManager\\Interfaces\\IUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:12:08.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersRepo.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Repos\\UsersRepo.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Repos\\UsersRepo.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Repos\\UsersRepo.cs",
+              "RelativeToolTip": "ContactsManager\\Repos\\UsersRepo.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:31:37.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Form1.cs",
+              "RelativeToolTip": "ContactsManager\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:13:14.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactsManager\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:10:56.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Repos\\CategoriesRepo.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\Repos\\CategoriesRepo.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\Repos\\CategoriesRepo.cs",
+              "RelativeToolTip": "ContactsManager\\Repos\\CategoriesRepo.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:31:25.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\RegistryForm.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\RegistryForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\RegistryForm.cs [Design]",
+              "RelativeToolTip": "ContactsManager\\RegistryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:13:20.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ContactsManager\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\ContactsManager\\ContactsManager\\LoginForm.cs",
+              "RelativeToolTip": "ContactsManager\\LoginForm.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:55:05.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

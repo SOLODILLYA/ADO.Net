@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|c:\\users\\solod\\it\\step\\ado.net\\goodscatalog\\goodscatalog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|solutionrelative:goodscatalog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\goodscatalog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|solutionrelative:goodscatalog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\goodscatalog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|solutionrelative:goodscatalog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\goodscatalog\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|solutionrelative:goodscatalog\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_SOLOD_IT_STEP_ADO.NET_GOODSCATALOG_GOODSCATALOG_CATALOG.MDF/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\goodscatalog\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|solutionrelative:goodscatalog\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\goodscatalog\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ED0CC90E-AB48-4488-8551-6E666B4BA9D0}|GoodsCatalog\\GoodsCatalog.csproj|solutionrelative:goodscatalog\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1394,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_SOLOD_IT_STEP_ADO.NET_GOODSCATALOG_GOODSCATALOG_CATALOG.MDF/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-01T16:13:10.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GoodsCatalog\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\Models\\Product.cs",
+              "RelativeToolTip": "GoodsCatalog\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:22:45.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "GoodsCatalog\\Models\\Producer.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\Models\\Producer.cs",
+              "RelativeToolTip": "GoodsCatalog\\Models\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:22:29.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "GoodsCatalog\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\Models\\Category.cs",
+              "RelativeToolTip": "GoodsCatalog\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:22:21.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\App.config",
+              "RelativeDocumentMoniker": "GoodsCatalog\\App.config",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\App.config",
+              "RelativeToolTip": "GoodsCatalog\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-22T16:19:47.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\Form1.cs",
+              "RelativeDocumentMoniker": "GoodsCatalog\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\Form1.cs",
+              "RelativeToolTip": "GoodsCatalog\\Form1.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAmwAkBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:11:45.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\Form1.cs",
+              "RelativeDocumentMoniker": "GoodsCatalog\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\GoodsCatalog\\GoodsCatalog\\Form1.cs [Design]",
+              "RelativeToolTip": "GoodsCatalog\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:04:24.168Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

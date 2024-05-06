@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\adminka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\adminka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|c:\\users\\solod\\it\\step\\ado.net\\mytests\\mytests\\adminka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\adminka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|c:\\users\\solod\\it\\step\\ado.net\\mytests\\mytests\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MyTests.EF_ORM.MyTestsDbManager/True/SqlTable/dbo.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\createtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\createtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MyTests.EF_ORM.MyTestsDbManager/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\createtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\createtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\migrations\\202403272044540_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\migrations\\202403272044540_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\ef-orm\\mytestsdbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\ef-orm\\mytestsdbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\migrations\\202403281912161_correctedmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\migrations\\202403281912161_correctedmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\migrations\\202403281718571_createtestssubjectstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\migrations\\202403281718571_createtestssubjectstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\migrations\\202403281846504_createadditionaltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\migrations\\202403281846504_createadditionaltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\mytests\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE79D1A9-8AC0-44CF-B4B0-B2C9FFAAFE41}|MyTests\\MyTests.csproj|solutionrelative:mytests\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2953,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTests.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\CreateTests.cs",
+              "RelativeDocumentMoniker": "MyTests\\CreateTests.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\CreateTests.cs",
+              "RelativeToolTip": "MyTests\\CreateTests.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvzoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:06:15.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Form1.cs",
+              "RelativeDocumentMoniker": "MyTests\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Form1.cs",
+              "RelativeToolTip": "MyTests\\Form1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:01:51.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1511,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adminka.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Adminka.cs",
+              "RelativeDocumentMoniker": "MyTests\\Adminka.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Adminka.cs",
+              "RelativeToolTip": "MyTests\\Adminka.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:28:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adminka.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Adminka.cs",
+              "RelativeDocumentMoniker": "MyTests\\Adminka.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Adminka.cs [Design]",
+              "RelativeToolTip": "MyTests\\Adminka.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:54:24.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Program.cs",
+              "RelativeDocumentMoniker": "MyTests\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Program.cs",
+              "RelativeToolTip": "MyTests\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:28:25.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateTests.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\CreateTests.cs",
+              "RelativeDocumentMoniker": "MyTests\\CreateTests.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\CreateTests.cs [Design]",
+              "RelativeToolTip": "MyTests\\CreateTests.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:59:06.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "202403281912161_CorrectedMigration.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Migrations\\202403281912161_CorrectedMigration.cs",
+              "RelativeDocumentMoniker": "MyTests\\Migrations\\202403281912161_CorrectedMigration.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Migrations\\202403281912161_CorrectedMigration.cs",
+              "RelativeToolTip": "MyTests\\Migrations\\202403281912161_CorrectedMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:12:19.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MyTests.EF_ORM.MyTestsDbManager/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-28T19:04:50.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Roles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MyTests.EF_ORM.MyTestsDbManager/True/SqlTable/dbo.Roles.sql",
+              "ToolTip": "dbo.Roles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-28T19:03:42.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Entry.cs",
+              "RelativeDocumentMoniker": "MyTests\\Entry.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Entry.cs",
+              "RelativeToolTip": "MyTests\\Entry.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:55:50.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Entry.cs",
+              "RelativeDocumentMoniker": "MyTests\\Entry.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Entry.cs [Design]",
+              "RelativeToolTip": "MyTests\\Entry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:54:34.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "202403281846504_CreateAdditionalTables.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Migrations\\202403281846504_CreateAdditionalTables.cs",
+              "RelativeDocumentMoniker": "MyTests\\Migrations\\202403281846504_CreateAdditionalTables.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Migrations\\202403281846504_CreateAdditionalTables.cs",
+              "RelativeToolTip": "MyTests\\Migrations\\202403281846504_CreateAdditionalTables.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:46:54.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "MyTests\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Grade.cs",
+              "RelativeToolTip": "MyTests\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:11:39.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "MyTests\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Question.cs",
+              "RelativeToolTip": "MyTests\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:10:56.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "MyTests\\Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Answer.cs",
+              "RelativeToolTip": "MyTests\\Models\\Answer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:10:48.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "202403281718571_CreateTestsSubjectsTables.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Migrations\\202403281718571_CreateTestsSubjectsTables.cs",
+              "RelativeDocumentMoniker": "MyTests\\Migrations\\202403281718571_CreateTestsSubjectsTables.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Migrations\\202403281718571_CreateTestsSubjectsTables.cs",
+              "RelativeToolTip": "MyTests\\Migrations\\202403281718571_CreateTestsSubjectsTables.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:19:01.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "MyTests\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Subject.cs",
+              "RelativeToolTip": "MyTests\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:12:47.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "MyTests\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Test.cs",
+              "RelativeToolTip": "MyTests\\Models\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:12:40.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "202403272044540_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Migrations\\202403272044540_FirstMigration.cs",
+              "RelativeDocumentMoniker": "MyTests\\Migrations\\202403272044540_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Migrations\\202403272044540_FirstMigration.cs",
+              "RelativeToolTip": "MyTests\\Migrations\\202403272044540_FirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:45:05.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MyTests\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MyTests\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:32:00.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyTestsDbManager.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\EF-ORM\\MyTestsDbManager.cs",
+              "RelativeDocumentMoniker": "MyTests\\EF-ORM\\MyTestsDbManager.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\EF-ORM\\MyTestsDbManager.cs",
+              "RelativeToolTip": "MyTests\\EF-ORM\\MyTestsDbManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:25:56.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "MyTests\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\Role.cs",
+              "RelativeToolTip": "MyTests\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:01:30.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MyTests\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Models\\User.cs",
+              "RelativeToolTip": "MyTests\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:58:42.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Form1.cs",
+              "RelativeDocumentMoniker": "MyTests\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\ADO.Net\\MyTests\\MyTests\\Form1.cs [Design]",
+              "RelativeToolTip": "MyTests\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:56:48.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
